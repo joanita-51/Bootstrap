@@ -37,10 +37,17 @@
 
 .electronic-nav{
     background-color: #D7D9CE;
-    width: 79.5rem;
-    height: 2rem;
+    width: 78.7rem;
+    height: 3rem;
     margin-left: 2rem;
+    
 }
 .more{
-    margin-left: 64rem;
+    margin-left: 62.5rem;
+    color: #13505B;
+}
+.electronics-items{
+    background-color: rgba(215, 217, 206, 0.17);
+    margin-left: 2.8rem;
+    margin-right: 3rem;
 }
