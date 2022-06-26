@@ -20,3 +20,17 @@
 .nav-link{
     color: #13505B !important;
 }
+.categories{
+    background-color: #0C7489;
+    height:23rem;
+}
+
+.hero{
+    background-color: #D7D9CE;
+}
+
+.cart{
+    background-color:#13505B ;
+    width: 13rem;
+    height: 2rem;
+}
