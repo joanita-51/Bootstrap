@@ -1,0 +1,22 @@
+.navbar-nav{
+    margin-left: 13rem;
+}
+.search{
+    margin-left: 5rem;
+}
+.search-btn{
+    color: #ffffff;
+    background-color: #13505B;
+
+}
+.navbar{
+    background-color:#D7D9CE;
+}
+.input{
+    border: 2px solid #0C7489;
+    border-radius: 15px;
+    /* background-color:#D7D9CE; */
+}
+.nav-link{
+    color: #13505B !important;
+}
