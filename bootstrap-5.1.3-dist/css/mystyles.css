@@ -76,18 +76,18 @@
     background-color: #323232;
     width: 78.5rem;
 }
-.twitter{
+.bi-twitter{
     background-color: #55ACEE;
-    height:80%;
-
+   
 }
-.facebook{
+.bi-facebook{
     background-color: #43A2EB;
+       
 }
-.instagram{
+.bi-instagram{
     background-color: rgba(245, 7, 7, 1);
-}
-.whatsapp{
+   }
+.bi-whatsapp{
     background-color: #00E676;
-}
+   }
 

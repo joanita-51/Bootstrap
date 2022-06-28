@@ -1,0 +1,30 @@
+.search{
+    background-color: #13505B;
+    color: #ffffff;
+}
+
+.input{
+    border-radius:15px;
+    border: 2px solid #0C7489;
+    background-color: #D7D9CE;
+}
+
+.navbar{
+    background-color: #D7D9CE;
+}
+
+.navbar-nav{
+    margin-left: 13rem;
+}
+
+.search-group{
+    margin-left: 5rem;
+}
+.nav-link{
+    color: #13505B !important;
+}
+
+.categories{
+    background-color: #0C7489;
+    height: 23rem;
+}
