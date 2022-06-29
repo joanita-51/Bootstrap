@@ -28,3 +28,25 @@
     background-color: #0C7489;
     height: 23rem;
 }
+
+.display{
+    background-color: #D7D9CE;
+    height: 23rem;
+}
+
+.cart{
+    background-color:#13505B ;
+    width: 13rem;
+    height: 2rem;
+}
+.electronics{
+    background-color: #D7D9CE;
+    width: 81.5rem;
+    height: 3rem;
+    margin-left: 0.5rem;
+}
+
+.more{
+    margin-left: 62.5rem;
+    color: #13505B;
+}
