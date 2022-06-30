@@ -90,4 +90,21 @@
 .bi-whatsapp{
     background-color: #00E676;
    }
+@media (max-width: 992px) { 
+    .categories{
+       width: fit-content;
+    }
+}
 
+@media (max-width: 767.98px) { 
+    .categories{
+        width: 80%;
+        margin-bottom: 2%;
+
+    }
+
+    .promo{
+       padding: 0%;
+    }
+
+}
